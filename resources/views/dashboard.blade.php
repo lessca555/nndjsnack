@@ -6,7 +6,7 @@
                 <div class="flex gap-4">
                     <a href="#">
                         <div class="w-[150px] font-bold bg-blue-700 flex justify-center items-center flex-col text-white rounded-lg p-5">
-                            <p>Facitlity</p>
+                            <p>Item</p>
                             <div>
                                 <h1>0</h1>
                             </div>
@@ -14,7 +14,7 @@
                     </a>
                     <a href="#">
                         <div class="w-[150px] font-bold bg-red-700 flex justify-center items-center flex-col text-white rounded-lg p-5">
-                            <p>Room Type</p>
+                            <p>Sales</p>
                             <div>
                                 <h1>0</h1>
                             </div>
@@ -22,7 +22,7 @@
                     </a>
                     <a href="#">
                         <div class="w-[150px] font-bold bg-green-700 flex justify-center items-center flex-col text-white rounded-lg p-5">
-                            <p>Bed Type</p>
+                            <p>etc</p>
                             <div>
                                 <h1>0</h1>
                             </div>
